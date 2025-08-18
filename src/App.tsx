@@ -57,7 +57,7 @@ const Hero = () => {
       <div className="hero-container">
         <div className="hero-content">
           <h1 className="hero-title">
-            Hi, I'm <span className="gradient-text">Alex Johnson</span>
+            Hi, I'm <span className="gradient-text"> Badmosh Bhai</span>
           </h1>
           <h2 className="hero-subtitle">Full-Stack Developer</h2>
           <p className="hero-description">
