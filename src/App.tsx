@@ -30,7 +30,7 @@ const Navigation = () => {
     <nav className="navbar">
       <div className="nav-container">
         <div className="nav-logo">
-          <span className="logo-text">Alex Johnson</span>
+          <span className="logo-text">Vishav Nianta</span>
         </div>
         
         <div className={`nav-menu ${isMenuOpen ? 'active' : ''}`}>
@@ -57,7 +57,7 @@ const Hero = () => {
       <div className="hero-container">
         <div className="hero-content">
           <h1 className="hero-title">
-            Hi, I'm <span className="gradient-text"> Badmosh Bhai</span>
+            Hi, I'm <span className="gradient-text"> Vishav Nianta</span>
           </h1>
           <h2 className="hero-subtitle">Full-Stack Developer</h2>
           <p className="hero-description">
@@ -87,9 +87,8 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <p>
-              I'm a passionate full-stack developer with over 5 years of experience creating 
-              digital solutions that make a difference. I love turning complex problems 
-              into simple, beautiful designs.
+              I am Student of DIT University in Dehradun and pursuing BCA. I have been learning coding form last 
+              3 years and have a passion for creating beautiful and functional web applications.
             </p>
             <p>
               My journey started as a self-taught developer, and I quickly fell in love with 
@@ -246,7 +245,7 @@ const Contact = () => {
               <span className="contact-icon">📧</span>
               <div>
                 <h4>Email</h4>
-                <p>alex.johnson@example.com</p>
+                <p>vishavniyanta06@gmail.com</p>
               </div>
             </div>
             
@@ -254,7 +253,7 @@ const Contact = () => {
               <span className="contact-icon">📱</span>
               <div>
                 <h4>Phone</h4>
-                <p>+1 (555) 123-4567</p>
+                <p>7009813805</p>
               </div>
             </div>
             
@@ -262,7 +261,7 @@ const Contact = () => {
               <span className="contact-icon">📍</span>
               <div>
                 <h4>Location</h4>
-                <p>San Francisco, CA</p>
+                <p>Dehradun, Uttrakhand</p>
               </div>
             </div>
           </div>
@@ -324,7 +323,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="container">
-        <p>&copy; 2024 Alex Johnson. Built with ❤️ using React.</p>
+        <p>&copy; © All Rights Reserved 2025 Website Design and development by Vishav Nianta.</p>
       </div>
     </footer>
   );

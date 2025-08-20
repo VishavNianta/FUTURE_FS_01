@@ -34,9 +34,8 @@ const About = () => {
               About <span className="text-gradient">Me</span>
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-              I'm a passionate developer with over 5 years of experience creating 
-              digital solutions that make a difference. I love turning complex problems 
-              into simple, beautiful designs.
+              I am Student of DIT University in Dehradun and pursuing BCA. I have been learning coding form last 
+              3 years and have a passion for creating beautiful and functional web applications.
             </p>
           </div>
           

@@ -37,19 +37,19 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      content: "alex.johnson@example.com",
-      link: "mailto:alex.johnson@example.com"
+      content: "vishavniyanta06@gmail.com",
+      link: "mailto:vishavniyanta06@gmail.com"
     },
     {
       icon: Phone,
       title: "Phone",
-      content: "+1 (555) 123-4567",
-      link: "tel:+15551234567"
+      content: "7009813805",
+      link: "tel:7009813805"
     },
     {
       icon: MapPin,
       title: "Location",
-      content: "San Francisco, CA",
+      content: "Dehradun, Uttrakhand",
       link: "#"
     }
   ];
